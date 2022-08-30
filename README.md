@@ -8,7 +8,7 @@ Department of Earth System Science <br />
 University of California, Irvine 
 
 ## Summary
-Here we provide the R code necessary to reproduce the analysis described in Larkin *et al.* 2022, *ISME J*, "Basin-scale biogeography of *Prochlorococcus* and SAR11 ecotype replication." Specifically, in we provide: 
+Here we provide the R code necessary to reproduce the analysis described in Larkin *et al.* 2022, *ISME J*, "Basin-scale biogeography of *Prochlorococcus* and SAR11 ecotype replication." Specifically, we provide: 
 - A function to calculate the terminus of replication using the median circular minimum as first described by Korem *et al.* 2015 
 - A function to simultaneously fit forward and reverse linear functions to gene coverage patterns such that the slopes of the forward and reverse (i.e., "right hand" and "left hand") functions are equal 
 - An example application of these functions to a marine dataset using the *Prochlorococcus* ecotype HLI 
@@ -21,7 +21,7 @@ If users wish to apply this code to their own datasets, users should first obtai
 ## Requirements
 For this example code we use a Jupyter notebook, which provides a convenient way to share and run scripts. Jupyter notebooks comes automatically with the Anaconda python platform. 
 
-** Steps for setting up: **
+# Setup
 1. Go to the main page of this Github respository (<https://github.com/aalarkin/SCCG-Replication-Slope/>), click on "*clone or download*" in the top-right corner, and select "*Download ZIP*" to download the whole repository on your computer. Keep track of where you are downloading the file. Unzip the respository if your browser has not done it automatically.
 
 2. Download the latest version of Anaconda for your operating system: <https://www.continuum.io/downloads> and follow the instructions to install.
