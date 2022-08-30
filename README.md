@@ -21,7 +21,7 @@ If users wish to apply this code to their own datasets, users should first obtai
 ## Requirements
 For this example code we use a Jupyter notebook, which provides a convenient way to share and run scripts. Jupyter notebooks comes automatically with the Anaconda python platform. 
 
-# Setup
+### Setup
 1. Go to the main page of this Github respository (<https://github.com/aalarkin/SCCG-Replication-Slope/>), click on "*clone or download*" in the top-right corner, and select "*Download ZIP*" to download the whole repository on your computer. Keep track of where you are downloading the file. Unzip the respository if your browser has not done it automatically.
 
 2. Download the latest version of Anaconda for your operating system: <https://www.continuum.io/downloads> and follow the instructions to install.
