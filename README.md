@@ -21,7 +21,7 @@ If users wish to apply this code to their own datasets, users should first obtai
 For this example code we use a Jupyter notebook, which provides a convenient way to share scripts and run them right in the notebook. Jupyter notebooks comes automatically with the Anaconda python platform. 
 
 ** Steps for setting up: **
-1. Go to the main page of this Github respository (<https://github.com/UCIDataScienceInitiative/SpaceTime>), click on "*clone or download*" in the top-right corner, and select "*Download ZIP*" to download the whole repository on your computer. Keep track of where you are downloading the file. Unzip the respository if your browser has not done it automatically.
+1. Go to the main page of this Github respository (<https://github.com/aalarkin/SCCG-Replication-Slope/>), click on "*clone or download*" in the top-right corner, and select "*Download ZIP*" to download the whole repository on your computer. Keep track of where you are downloading the file. Unzip the respository if your browser has not done it automatically.
 
 2. Download the latest version of Anaconda for your operating system: <https://www.continuum.io/downloads> and follow the instructions to install.
 
@@ -37,23 +37,3 @@ jupyter notebook
 This should open up Jupyter on your browser from the directory that you navigated to above. On the main page of the respository on Jupyter, click on this notebook. 
 
 5. To run the example code, just click on the cell and press `Cntr + Enter` to run it, or just use the *run* button from the menu on top.
-
-{
-    "name": "Creative Commons Attribution (CC-BY)",
-    "priority": 1,
-    "available": true,
-    "url": "http://creativecommons.org/licenses/by/4.0/",
-    "description": "This is the standard creative commons license that gives others maximum freedom to do what they want with your work.",
-    "categories": [
-        "public",
-        "data",
-        "by"
-    ],
-    "labels": [
-        "public",
-        "cc",
-        "by",
-        "opendata"
-    ],
-    "key": "cc-by"
-}
