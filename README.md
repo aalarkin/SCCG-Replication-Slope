@@ -37,8 +37,6 @@ jupyter notebook
 ```
 This should open up Jupyter on your browser from the directory that you navigated to above. On the main page of the respository on Jupyter, click on this notebook. 
 
-5. To run the example code, just click on the cell and press `Cntr + Enter` to run it, or just use the *run* button from the menu on top.
-
 NOTE: Depending on your operating system and the current version of Anaconda, you may run into some R kernal dependency issues. If this is the case, you can you use either Anaconda or Miniconda to create a conda environment using the environment dependencies provided in this GitHub repository. To create a conda environment, navigate to the directory containing this repository and type
 ```
 conda env create --name mypython3r4 -f environment.yml
@@ -50,6 +48,7 @@ conda activate mypython3r4
 jupyter notebook
 ```
 
+5. To run the example code, just click on the cell and press `Cntr + Enter` to run it, or just use the *run* button from the menu on top.
 
 ## License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
