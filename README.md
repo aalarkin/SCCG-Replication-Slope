@@ -35,7 +35,7 @@ conda install -c r r-essentials
 ```
 jupyter notebook
 ```
-This should open up Jupyter on your browser from the directory that you navigated to above. On the main page of the respository on Jupyter, click on this notebook. 
+This should open up Jupyter on your browser from the directory that you navigated to above. On the main page of the respository on Jupyter, click on the "ISME_Larkin_2022" notebook. 
 
 NOTE: Depending on your operating system and the current version of Anaconda, you may run into some R kernal dependency issues. If this is the case, you can you use either Anaconda or Miniconda to create a conda environment using the environment dependencies provided in this GitHub repository. To create a conda environment, navigate to the directory containing this repository and type
 ```
