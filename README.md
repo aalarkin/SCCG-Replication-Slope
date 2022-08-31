@@ -19,19 +19,19 @@ If users wish to apply this code to their own datasets, users should first obtai
 
 
 ## Requirements
-For this example code we use a Jupyter notebook, which provides a convenient way to share and run scripts. Jupyter notebooks comes automatically with the Anaconda python platform. 
+For this example code we use a Jupyter notebook, which provides a convenient way to share and run scripts. Jupyter Notebooks comes automatically with the Anaconda Python platform. 
 
 ### Setup
-1. Go to the main page of this Github respository (<https://github.com/aalarkin/SCCG-Replication-Slope/>), click on "*clone or download*" in the top-right corner, and select "*Download ZIP*" to download the whole repository on your computer. Keep track of where you are downloading the file. Unzip the respository if your browser has not done it automatically.
+1. Download this repository. Go to the main page of this GitHub respository (<https://github.com/aalarkin/SCCG-Replication-Slope/>), click on "*clone or download*" in the top-right corner, and select "*Download ZIP*" to download the whole repository on your computer. Keep track of where you are downloading the file. Unzip the respository if your browser has not done it automatically.
 
-2. Download the latest version of Anaconda for your operating system: <https://www.continuum.io/downloads> and follow the instructions to install.
+2. Download the latest version of Anaconda for your operating system (<https://www.continuum.io/downloads>) and follow the instructions to install.
 
-3. This code uses R, therefore you will need to install the R kernel. For this, go to command line and type
+3. Install the R kernel. In the command line type:
 ```
 conda install -c r r-essentials
 ```
 
-4. Open Jupyter notebook: In command prompt or the Anaconda prompt in Windows, navigate to where you downloaded this repository and type in
+4. Open the Jupyter notebook. In command prompt or the Anaconda prompt in Windows, navigate to where you downloaded this repository and type:
 ```
 jupyter notebook
 ```
