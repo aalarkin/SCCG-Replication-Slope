@@ -14,7 +14,7 @@ Here we provide the R code necessary to reproduce the analysis described in Lark
 - An example application of these functions to a marine dataset using the *Prochlorococcus* ecotype HLI 
 
 If users wish to apply this code to their own datasets, users should first obtain: 
-- A Sample x Gene matrix containing the coverage values of single cope core genes. We **strongly** recommend that coverage values be based on rarefied reads, such that the same number of reads are used for every sample in the dataset. 
+- A Sample x Gene matrix containing the coverage values of single copy core genes. We **strongly** recommend that coverage values be based on rarefied reads, such that the same number of reads are used for every sample in the dataset. 
 - A single column matrix containing the start locations for every gene based on a reference genome 
 
 
